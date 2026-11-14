@@ -1,4 +1,4 @@
-[g_wny_plik_readme_repozytorium (1).md](https://github.com/user-attachments/files/34860957/g_wny_plik_readme_repozytorium.1.md)
+
 <div align="center">
 
 # 🌐 Cisco Packet Tracer
